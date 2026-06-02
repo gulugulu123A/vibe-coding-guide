@@ -253,8 +253,4 @@ Thanks to the following open-source projects and communities:
 
 ## Open Source
 
-MIT License. Feel free to fork, modify, translate, or rewrite with your own project case study.
-
----
-
-**Stay curious. Don't look back.**
+Feel free to fork, modify, translate, or rewrite with your own project case study.
