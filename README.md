@@ -253,4 +253,4 @@ cd vibe-coding-guide-skills
 
 ## 开源
 
-MIT License，欢迎 Fork、修改、翻译成其他语言，或者用你自己的项目案例重写一遍。
+欢迎 Fork、修改、翻译成其他语言，或者用你自己的项目案例重写一遍。
